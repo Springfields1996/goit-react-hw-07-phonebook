@@ -1,0 +1,6 @@
+const ADD_CONTACT = 'contacts/ADD';
+const FILTER_CONTACTS = 'contacts/FILTER';
+const DELETE_CONTACT = 'contacts/DELETE';
+const SWITCH_NOTIFICATION = 'notification/SWITCH';
+
+export { ADD_CONTACT, DELETE_CONTACT, FILTER_CONTACTS, SWITCH_NOTIFICATION };
